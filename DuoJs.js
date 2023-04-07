@@ -7,5 +7,5 @@ function Sai(){
     document.getElementById("Thua_Hiding").style.display = 'block'
     document.getElementById("Quest1").style.display = 'none'
     document.getElementById("Gioi_thieu").style.display = 'none'
-    document.getElementById("xep_hang").style.display = 'none'
+    document.getElementById("xep_hang").style.display = 'none';
 }
